@@ -1,0 +1,14 @@
+[{
+  "_id": {
+    "$oid": "65a7b991493b8db83a5ef24d"
+  },
+  "Name": "Java",
+  "Price": "20000",
+  "Instructor": "Harry"
+},
+{
+  "_id": {
+    "$oid": "65a7bad4c0afe6ed9acef499"
+  },
+  "name": "JavaScipt"
+}]
