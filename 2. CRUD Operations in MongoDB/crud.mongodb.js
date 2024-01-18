@@ -124,3 +124,7 @@ db.courses.deleteOne({price:100})
 
 //Delete Many
 db.courses.deleteMany({price:1000})
+
+
+//Read this document for more operations etc
+// https://www.mongodb.com/docs/manual/reference/operator/query/
